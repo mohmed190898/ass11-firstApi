@@ -1,0 +1,48 @@
+
+body{
+    background-color: #1E202B !important;
+}
+.mainNav{
+    background-color: #1E202B;
+}
+
+ul .firstLi{
+    color: #109AD8 !important;
+    border-color:#109AD8  !important;
+}
+li{
+    margin: 10px;
+}
+.navbar-nav a {
+    border: 3px solid transparent;
+    border-radius: 30px;
+    padding: 5px  20px !important;
+}
+.navbar-nav a:hover {
+    color: #109AD8 !important;
+    border-color:#109AD8 ;
+}
+.findData{
+    /* height: 100vw; */
+    /* background-color: red; */
+    padding: 70px 0;
+    background-image: url("wolfgang-hasselmann-bR_-gllg7Bs-unsplash.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.container input{
+    background-color: #1E202B;
+    color: White;
+}
+.container input::placeholder{
+    color: #eee;
+}
+.findBtn {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+}
+
+.weahetInfo{
+    background-color: #1E202B;
+}
