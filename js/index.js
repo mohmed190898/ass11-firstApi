@@ -25,8 +25,6 @@ async function getCity(cityName) {
     allData = data;
     part1Data=data;
     date = new Date();
-    // console.log(allData.current.wind_dir);
-    // console.log(directoin);
 
     directoin=allData.current.wind_dir;
     // switch (allData.current.wind_dir) {
